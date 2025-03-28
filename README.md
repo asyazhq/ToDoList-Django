@@ -45,9 +45,9 @@ The API will be available at http://127.0.0.1:8000/
 
 ### Authentication
 This API uses session-based authentication. Users must first log in to access protected endpoints.
-- Register: `POST /api/v1/auth/register`
-- Login: `POST /api/v1/auth/login` 
-- Logout: `GET /api/v1/auth/logout`
+- Register: `POST /api/v1/auth/register/`
+- Login: `POST /api/v1/auth/login/` 
+- Logout: `GET /api/v1/auth/logout/`
 
 ### User Endpoints
 
@@ -147,4 +147,5 @@ Body
 }
 ```
 
-## Assem Zhakanova
+## Video Demonstration
+[The link to the video](https://youtu.be/fM3XZ4yrNf4)
