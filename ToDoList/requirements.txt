@@ -1,0 +1,8 @@
+Django>=4.2
+django-rest-framework
+djangorestframework>=3.14
+psycopg2-binary>=2.9.9  # PostgreSQL database adapter
+django-cors-headers>=4.3
+python-dotenv>=1.0.1  # For managing environment variables
+django-filter>=23.3  # Filtering support for DRF
+pytest-django>=4.7  # Testing with Django
